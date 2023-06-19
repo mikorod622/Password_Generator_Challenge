@@ -12,7 +12,7 @@ My motivation making this project was getting to know javascript better. I built
 
 ## Installation
 
-- Navigate to the website of my Github profile: https://github.com/mikorod622/Password_Generator_Challenge
+- Navigate to the website of my Github profile: https://github.com/mikorod622
 - Click the "<> Code" icon
 - Click "Download ZIP"
 
